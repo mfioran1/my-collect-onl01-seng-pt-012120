@@ -9,3 +9,4 @@ new_array
 end
 
 
+my_collect(students) {|i| i.split(" ").first}
